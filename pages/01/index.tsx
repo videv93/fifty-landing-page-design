@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export default function Page01() {
   return (
-    <div className="container mx-">
+    <div className="container mx-auto">
       <div className="text-center text-red px-20">
         <h1 className="text-4xl">Discover the beauty around the world</h1>
         <p className="pt-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus in libero
